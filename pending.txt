@@ -1,0 +1,2 @@
+
+1. first non repeating letter in  steame of characters (QUEUE).
